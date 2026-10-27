@@ -50,9 +50,7 @@ blah blah blah for educational purposes only blah blah blah use at your own risk
 
 
 
-made by me, human
-
-made without bad robots
+made by me
 
 made in visualstudiocodium
 
